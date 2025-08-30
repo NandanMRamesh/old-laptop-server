@@ -35,6 +35,7 @@ Standard Ubuntu Server install (no desktop). During setup:
 
 ### 2) configure netplan
 enabled only the ethernet port, no wifi as it give me trouble.
+![netplan.yaml](images\netplan-yaml.png)
 
 ### 3) installed docker
 installed docker
