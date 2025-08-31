@@ -41,3 +41,16 @@ enabled only the ethernet port, no wifi as it give me trouble.
 installed docker
 ![docker-hello-world](images/docker-hello-world.png)
 
+### 4)Nextcloud Setup Progress 🚀
+
+- Installed Ubuntu Server on old laptop
+- Installed Docker
+- Disabled Wi-Fi, using Ethernet only
+- Configured laptop to not sleep when lid closed (screen off after 5 min)
+- Installed Docker Compose
+- Tested Docker with Nginx playground
+- ✅ Deployed Nextcloud with MariaDB in Docker
+- Fixed DB connection/authentication issues
+- Accessing Nextcloud locally at `http://192.168.1.99:8080`
+- Login successful with admin account
+- Mobile access confirmed (via HTTP, HTTPS requires proxy setup later)
